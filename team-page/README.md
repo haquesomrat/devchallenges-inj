@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">404 not found</h1>
+<h1 align="center">Team Website</h1>
 
 <div align="center">
    Live Site:  <a href="https://exquisite-lokum-74060e.netlify.app/" target="_blank">Team Website</a>.
