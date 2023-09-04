@@ -10,4 +10,4 @@
 
 ## Overview
 
-![screenshot](./exquisite-lokum-74060e.netlify.app_.pngscrrenshot.png)
+![team-website](./exquisite-lokum-74060e.netlify.app_.pngscrrenshot.png)
