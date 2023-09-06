@@ -1,0 +1,129 @@
+@media screen and (min-width: 768px) {
+  .container {
+    width: 85%;
+  }
+  /* hero section  */
+
+  .hero-headline {
+    font-size: 2.5rem;
+  }
+  .hero-text {
+    font-size: 0.75rem;
+    width: 60%;
+  }
+  /* recipe content  */
+  .recipe-content {
+    display: flex;
+    flex-direction: row;
+    gap: 1.875rem;
+  }
+  .recipe-left {
+    flex-basis: 70%;
+  }
+  .recipe-right {
+    flex-basis: 30%;
+  }
+  .check-box {
+    flex-basis: 5%;
+  }
+  .ins-no {
+    flex-basis: 8%;
+  }
+  .card {
+    gap: 1rem;
+    align-items: center;
+    padding: 3.5rem 1.5rem;
+    border-radius: 0.75rem;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+  }
+  .card-list {
+    gap: 1rem;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .card-item {
+    justify-content: space-between;
+    gap: 0.5rem;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .container {
+    width: 80%;
+  }
+  /* hero section  */
+  .hero {
+    padding: 3.25rem 0 3rem;
+  }
+  .hero-headline {
+    font-size: 3rem;
+  }
+  .hero-text {
+    font-size: 0.875rem;
+  }
+  /* recipe content  */
+  .recipe-left {
+    flex-basis: 70%;
+  }
+  .recipe-right {
+    flex-basis: 30%;
+  }
+
+  .ingredients,
+  .instructions {
+    gap: 0.875rem;
+  }
+  .instructions .title {
+    padding-bottom: 2rem;
+  }
+  .title {
+    font-size: 1.5rem;
+  }
+  .dish-name {
+    font-size: 1.125rem;
+    padding: 1.75rem 0 1.5rem;
+  }
+  .ingre-item,
+  .instr-item {
+    gap: 0.9375rem;
+  }
+  .text {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #333;
+    line-height: 25px;
+    flex-basis: 90%;
+  }
+  .check-box {
+    flex-basis: 5%;
+    margin: 0.25rem;
+  }
+  .ins-no {
+    flex-basis: 5%;
+    margin: 0;
+  }
+  .card {
+    gap: 2.125rem;
+    padding: 3.5625rem 2.125rem;
+    width: 80%;
+    margin-left: auto;
+  }
+  .card-list {
+    gap: 2.125rem;
+  }
+  .card-item {
+    gap: 0.75;
+  }
+  .card-item i {
+    font-size: 34px;
+  }
+  .card-title {
+    font-size: 0.625rem;
+  }
+  .card-text {
+    font-size: 0.875rem;
+  }
+  .source {
+    font-size: 1rem;
+  }
+}
